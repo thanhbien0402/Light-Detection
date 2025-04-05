@@ -1,0 +1,12 @@
+path: ../dataset_split
+train: train
+val: val
+test: test
+
+names:
+  0: red
+  1: green
+  2: yellow
+  3: no_light
+
+nc: 4
